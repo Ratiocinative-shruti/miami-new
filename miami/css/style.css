@@ -919,6 +919,9 @@ img{
     display: flex;
     justify-content: space-between;
 }
+.vedodiv-1 , .vedodiv-2 , .vedodiv-3 {
+    width: 33.3%;
+}
 /* second grey div */
 .grey-div2{
     background-color: #ededf1;
