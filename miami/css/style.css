@@ -341,7 +341,7 @@ body{
     right: 0%;
     margin: auto;
     width: max-content;
-    left: 0;
+    left: 10px;
     text-align: center;
 }
 .heading1 h1{
