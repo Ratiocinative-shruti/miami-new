@@ -212,6 +212,9 @@ body{
 .btn-1, .btn-2{
     padding: 18px 31px 16px 41px;
 }
+.logo-top{
+    height: auto;
+}
 /*hover header*/
 .text-condosforsale:hover , 
 .text-condosforrent:hover , 
@@ -480,7 +483,7 @@ body{
     text-transform: uppercase;
 }
 .miami-investment {
-    padding-top: 38px;
+    padding-top: 85px;
     position: relative;
 }
 .miami-investment a::after{
